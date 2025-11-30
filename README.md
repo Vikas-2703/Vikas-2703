@@ -35,23 +35,6 @@ I specialise in transforming raw, messy datasets into meaningful insights, dashb
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Vikas-2703&show_icons=true&theme=tokyonight" height="165">
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Vikas-2703&theme=tokyonight" height="165">
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas-2703&layout=compact&theme=tokyonight">
-
-</div>
-
----
-
 # 📂 Featured Data Analytics Projects
 
 ### 📊 **1. Retail Sales Power BI Dashboard**  
