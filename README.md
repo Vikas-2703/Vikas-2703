@@ -42,7 +42,7 @@ My strength lies in cleaning, transforming, and visualising data to support busi
 
 ## 📂 Featured Data Analytics Projects
 
-### 🎧 **2. Audiobook Pricing & Sales Insights**  
+### 🎧 **1. Audiobook Pricing & Sales Insights**  
 **Python • SQL • Tableau • Pandas**  
 - Cleaned audiobook metadata stored in PostgreSQL  
 - Performed EDA to understand pricing patterns and audience behaviour  
@@ -53,7 +53,7 @@ My strength lies in cleaning, transforming, and visualising data to support busi
 
 ---
 
-### 🪖 **3. US Military Spending Time Series Forecasting (1960–2020)**  
+### 🪖 **2. US Military Spending Time Series Forecasting (1960–2020)**  
 **R • Time Series • ARIMA • Forecasting**  
 - Analysed 60 years of defence budget data  
 - Performed ADF, PP, and KPSS stationarity tests  
@@ -64,7 +64,7 @@ My strength lies in cleaning, transforming, and visualising data to support busi
 
 ---
 
-### 📊 **1. Retail Sales Power BI Dashboard**  
+### 📊 **3. Retail Sales Power BI Dashboard**  
 **Power BI • Excel • DAX • Data Modelling**  
 Cleaned and modelled raw retail transaction data to build a complete interactive dashboard showing revenue, profit, customer behaviour, and seasonal trends.  
 
