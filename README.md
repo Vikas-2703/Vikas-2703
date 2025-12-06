@@ -112,17 +112,7 @@ _(Screenshot in repo)_
 
 ---
 
-## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas-2703&theme=default" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikas-2703&theme=github-light" alt="Contribution graph" />
-</p>
-
----
 
 ## 💬 Let’s Connect
 
