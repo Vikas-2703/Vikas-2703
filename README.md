@@ -1,7 +1,4 @@
 <!-- Profile Views + Contribution Grid -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vikas-2703&label=Profile%20views&color=6b4ce6&style=flat" alt="Profile views" />
-</p>
 
 <h1 align="center">Vikas | Data & BI Analyst</h1>
 
