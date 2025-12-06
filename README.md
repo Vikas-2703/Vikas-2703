@@ -1,120 +1,140 @@
-<!-- OPTIONAL BANNER — Upload banner.gif first or remove this block -->
-<div align="center">
-  <!-- If you upload a banner, replace banner.gif below -->
-  <!-- <img src="https://raw.githubusercontent.com/Vikas-2703/Vikas-2703/main/banner.gif" width="100%" /> -->
-</div>
+<!-- Profile Views + Contribution Grid -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vikas-2703&label=Profile%20views&color=6b4ce6&style=flat" alt="Profile views" />
+</p>
 
-# 👋 Hi, I'm Vikas  
-### **Data Analyst | BI Analyst | Analytics Professional**  
-📍 Melbourne, Australia  
+<h1 align="center">Vikas | Data & BI Analyst</h1>
 
-I specialise in turning raw data into clear, actionable insights using **SQL, Python, R, Power BI, Tableau, and Excel**.  
-My strength lies in cleaning, transforming, and visualising data to support business decision-making. I’m passionate about dashboards, KPIs, forecasting, and building analytics that simplify complexity.
+<h3 align="center">
+  Turning messy data into clear decisions · SQL · Python · Power BI · AWS
+</h3>
 
 ---
 
-## 🏅 Skills & Tools
+## 👋 About Me
 
-### **Languages**
+I am a Data & Business Intelligence Analyst who enjoys turning raw, messy data into insights that business teams can actually use.  
+My experience spans **dashboarding, analytics, and cloud data engineering** – from cleaning and modelling data in SQL/Python to building modern data pipelines on **AWS** and visualising results in **Power BI / Tableau / R Shiny**.
+
+I’m especially interested in:
+
+- Building **end-to-end analytics solutions** – ingestion → modelling → dashboards  
+- Designing **data lakes / ETL pipelines** on cloud (AWS S3, Glue, Lambda, Athena)  
+- Creating **interactive dashboards** that answer real business questions and tell a clear story  
+
+I enjoy collaborating with stakeholders, asking “**what decision will this chart actually drive?**”, and then designing the data model and visuals around that.
+
+---
+
+## 🚀 Skills & Technologies
+
+### 🧩 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
-### **Data Tools**
+### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-00ADEF?logo=snowflake&logoColor=white)
-
-### **Workflow Tools**
+### ☁️ Cloud & Data Engineering
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900)
+![S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-5A29E4?logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
+![Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+### 📈 BI & Storytelling
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R%20Shiny-276DC3?logo=r&logoColor=white)
+
+### 🧰 Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ---
 
-## 📂 Featured Data Analytics Projects
+## 📂 Featured Projects
 
-### 🎧 **1. Audiobook Pricing & Sales Insights**  
-**Python • SQL • Tableau • Pandas**  
-- Cleaned audiobook metadata stored in PostgreSQL  
-- Performed EDA to understand pricing patterns and audience behaviour  
-- Built Tableau dashboards for trend analysis  
-- Identified key features influencing audiobook price and ratings  
-➡️ **Repository:**  
-🔗 https://github.com/Vikas-2703/AudioBook-Prediction-Using-ML-models
+### 1. YouTube Trending Data Lake on AWS
 
----
+**AWS · S3 · Glue (PySpark) · Lambda · Athena · Parquet**
 
-### 🪖 **2. US Military Spending Time Series Forecasting (1960–2020)**  
-**R • Time Series • ARIMA • Forecasting**  
-- Analysed 60 years of defence budget data  
-- Performed ADF, PP, and KPSS stationarity tests  
-- Fitted and evaluated multiple ARIMA models  
-- Built 10-year forecast with interpretability and variance analysis  
-➡️ **Repository:**  
-🔗 https://github.com/Vikas-2703/us-military-spending-forecasting
+- Built an end-to-end **data lake** on AWS for the YouTube Trending Kaggle dataset  
+- Landed raw CSV/JSON into an S3 *landing* zone and used Glue (PySpark) + Lambda to build a *cleansed* Parquet layer  
+- Registered datasets in the AWS Glue Data Catalog and queried them from Athena for analytics  
+- Documented the full architecture and data flow for interview-ready walkthroughs  
+
+🔗 Repo: [YouTube-Trending-Video-Analysis](https://github.com/Vikas-2703/YouTube-Trending-Video-Analysis)
 
 ---
 
-### 📊 **3. Retail Sales Power BI Dashboard**  
-**Power BI • Excel • DAX • Data Modelling**  
-Cleaned and modelled raw retail transaction data to build a complete interactive dashboard showing revenue, profit, customer behaviour, and seasonal trends.  
+### 2. Online Sales Dashboard (R Shiny)
+
+**R · R Shiny · dplyr · ggplot2**
+
+- Designed an interactive **sales performance dashboard** for an e-commerce store  
+- Provided KPIs (revenue, units sold, AOV, transactions) with filters by **product category** and **region**  
+- Built visual breakdowns of sales by category/region and an interactive transaction table  
+
+_(Screenshot in repo)_  
+🔗 Repo: [ONLINE_SALES_DASHBOARD](https://github.com/Vikas-2703/ONLINE_SALES_DASHBOARD)
 
 ---
 
-## 💼 Professional Experience
+### 3. Audiobook Pricing & Sales Insights
 
-### 🧪 Data Analyst Research Assistant — **RMIT University**  
-*2024 | Melbourne, Australia*  
-- Cleaned and validated medical datasets, reducing classification errors by **69%**  
-- Conducted statistical analysis and exploratory data analysis  
-- Built analytical visualisations for research insights  
-- Supported academic teams with reporting and data modelling
-- 
+**Python · SQL · Pandas · Scikit-learn · Tableau**
 
-### 📈 Data Analyst Intern — **AppWorx IT Solutions**  
-*2021–2022 | India*  
-- Automated ETL workflows, reducing processing time by **30%**  
-- Analysed performance metrics and improved data accuracy by **15%**  
-- Prepared reports and dashboards for engineering & product teams  
+- Cleaned audiobook metadata and listener behaviour data  
+- Performed exploratory data analysis to understand pricing, ratings and sales patterns  
+- Trained baseline ML models to explore what drives audiobook ratings  
+- Built Tableau visuals to communicate insights to non-technical stakeholders  
 
-
-### 🔧 IT Support Analyst — **Tech Mahindra**  
-*2025 – Present | Melbourne*  
-- Resolved 40–60 technical support tickets/day  
-- Improved workflow documentation in Jira & Salesforce  
-- Enhanced analytics reporting accuracy using ITIL workflows  
----
-
-## 🎓 Education
-
-📘 **Master of Data Science — RMIT University (2023–2024)**  
-📘 **Bachelor of Technology — Kurukshetra University (2018–2022)**  
+🔗 Repo: [AudioBook-Prediction-Using-ML-models](https://github.com/Vikas-2703/AudioBook-Prediction-Using-ML-models)
 
 ---
 
-## 📜 Certifications
+### 4. US Military Spending Forecasting
 
-- Google Data Analytics Professional Certificate  
-- Python Data Structures (Coursera)  
+**R · Time-Series · ARIMA**
 
----
+- Analysed 60+ years of defence budget data  
+- Performed stationarity tests (ADF, PP, KPSS) and time-series diagnostics  
+- Built ARIMA models and produced forward forecasts with interpretation  
 
-## 🤝 Let’s Connect
-
-📌 **LinkedIn:** https://linkedin.com/in/vikas-66161921b  
-💻 **GitHub:** https://github.com/Vikas-2703  
-📧 **Email:** nitesh.vikas11@gmail.com  
-📍 **Melbourne, Australia**  
+🔗 Repo: [us-military-spending-forecasting](https://github.com/Vikas-2703/us-military-spending-forecasting)
 
 ---
 
-⭐ *Thanks for visiting! Feel free to explore my repositories or reach out if you'd like to collaborate on data analytics projects.*
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikas-2703&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas-2703&theme=default" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikas-2703&theme=github-light" alt="Contribution graph" />
+</p>
+
+---
+
+## 💬 Let’s Connect
+
+- Portfolio: [vikas-2703.github.io](https://vikas-2703.github.io)  
+- GitHub: [@Vikas-2703](https://github.com/Vikas-2703)  
+- LinkedIn: *(add your LinkedIn URL here)*  
+
+Always happy to talk about data, analytics, dashboards, and cloud projects!
