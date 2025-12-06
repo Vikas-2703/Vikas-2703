@@ -115,10 +115,6 @@ _(Screenshot in repo)_
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikas-2703&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas-2703&theme=default" alt="GitHub streak" />
 </p>
 
