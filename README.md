@@ -112,12 +112,22 @@ _(Screenshot in repo)_
 
 ---
 
+### 5. HR Attrition Analytics Dashboard (Power BI)
 
+**Power BI · DAX · Power Query · Drill-through · Bookmarks**
+
+- Built a **4-page HR analytics dashboard** to monitor attrition KPIs and uncover key drivers across **department, job role, overtime, satisfaction, travel, age band, and education**
+- Implemented a **Decomposition Tree** for interactive root-cause exploration and a **heatmap matrix** (Role × Satisfaction) to surface high-risk combinations
+- Added an **Employee Detail drill-through** page with searchable Employee ID slicer and **reset bookmarks** for clean default states and smooth navigation
+- Designed clear tooltips (rate + base) and consistent slicers to improve interpretability and reduce “small sample size” misreads
+
+🔗 Repo: [powerbi-hr-attrition-dashboard](https://github.com/Vikas-2703/powerbi-hr-attrition-dashboard)
+
+---
 
 ## 💬 Let’s Connect
-
-- Portfolio: [vikas-2703.github.io](https://vikas-2703.github.io)  
+ 
 - GitHub: [@Vikas-2703](https://github.com/Vikas-2703)  
-- LinkedIn: *(add your LinkedIn URL here)*  
+- LinkedIn: https://www.linkedin.com/in/vikas-66161921b/) 
 
 Always happy to talk about data, analytics, dashboards, and cloud projects!
